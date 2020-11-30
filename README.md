@@ -1,5 +1,4 @@
-# Terminal-Password-Manager
-
+# Password-Manager
 
 # Python Terminal Based Password Manager
 
