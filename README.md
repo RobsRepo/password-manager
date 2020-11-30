@@ -18,4 +18,5 @@ This is a simple terminal-based password manager that is based in Python. The ma
 
 # Build notes:
 1)	Store all of your passwords in an encrypted JSON file. Each file represents a user or a logical set of passwords that you would like to group in a file with a password of your choice.
-2)	Please see sample.json for an example of how a password JSON file is structured.
+2)	Please see password_imports/sample.json for an example of how a password JSON file is structured. You can use this example to run the import to see how bringing in a list of passwords can be done in 1 go. Once you run the import, this will create a file in the "passwords" folder with the name of the file on it.
+3)  All encrypted passwords will be stored in the "passwords" folder.
