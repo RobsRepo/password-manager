@@ -1,0 +1,18 @@
+[
+  {
+    "account": "Google",
+    "description": "Google - desc",
+    "email": "brody@gmail.com",
+    "username": "test-google",
+    "password": "1234",
+    "lastupdate": "11/1/2020"
+  },
+  {
+    "account": "Test",
+    "description": "Google - desc",
+    "email": "test@yahoo.com",
+    "username": "test@test.com",
+    "password": "test123",
+    "lastupdate": "11/1/2019"
+  }
+]
